@@ -45,13 +45,11 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 ## POSITIVE DISPLACEMENT:
 
-![WhatsApp Image 2025-12-17 at 15 28 13_03759a0f](https://github.com/user-attachments/assets/e91a36d6-d3c8-4692-b6f2-c63e17447af1)
-
+<img width="1097" height="814" alt="Screenshot 2025-12-17 154311" src="https://github.com/user-attachments/assets/a4ead963-b370-459a-adec-b7958541e6c6" />
 
 ## NEGATIVE DISPLACEMENT:
 
-![WhatsApp Image 2025-12-17 at 15 27 41_b4136bfa](https://github.com/user-attachments/assets/bb558842-0a60-40f5-ba4f-9c936437d095)
-
+<img width="1098" height="817" alt="Screenshot 2025-12-17 154342" src="https://github.com/user-attachments/assets/cd3357d6-71f7-4e11-bab4-235e5eba894c" />
 
 ## CALCULATION:
 
