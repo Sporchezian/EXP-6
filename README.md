@@ -41,15 +41,17 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 |Positive Displacement|7|2.2V (D=5mm)|1000|1/1000=1ms|
 |Negative Displacement|7|(D=5mm)|1000|1ms|
 
-## MODEL GRAPH:
+## GRAPH:
 
 ## POSITIVE DISPLACEMENT:
 
-![WhatsApp Image 2025-12-15 at 10 55 44_38a36318](https://github.com/user-attachments/assets/515eb74f-af0e-490a-970d-528b399322db)
+![WhatsApp Image 2025-12-17 at 15 28 13_03759a0f](https://github.com/user-attachments/assets/e91a36d6-d3c8-4692-b6f2-c63e17447af1)
+
 
 ## NEGATIVE DISPLACEMENT:
 
-![WhatsApp Image 2025-12-15 at 10 55 45_edc8ab0f](https://github.com/user-attachments/assets/c27719a2-e1aa-4cf6-919d-f717aeaaa449)
+![WhatsApp Image 2025-12-17 at 15 27 41_b4136bfa](https://github.com/user-attachments/assets/bb558842-0a60-40f5-ba4f-9c936437d095)
+
 
 ## CALCULATION:
 
